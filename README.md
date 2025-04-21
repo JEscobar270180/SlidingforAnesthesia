@@ -20,9 +20,9 @@ age_1 = 40; % represents the patient's sensitivity to propofol.
 
 gender = 1; %Female 1 Male 2
 
-with this information the model can be created for each patiennt, 
+with this information the model can be created for each patient, 
 
-4.  Run the simulink file, the controllers signals are now visible in the Scopes,
+4.  Run the Simulink file, the controllers signals are now visible on the Scopes,
   
 5.  For more patients, you can copy-paste a controller and create a new .m file with the information of the patient.
 
