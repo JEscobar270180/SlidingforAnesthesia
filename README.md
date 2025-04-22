@@ -1,6 +1,8 @@
 # SlidingforAnesthesia
 Design and Simulation of a Sliding Mode Control for Anesthesia
+
 Antonio Lopez-Ramirez, Ana Gabriela Gallardo-Hernandez, and Jesica Escobar
+
 Paper ID: 9523
 
 Running the controllers is very simple:
