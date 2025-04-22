@@ -1,5 +1,7 @@
 # SlidingforAnesthesia
-Sliding mode controller for anesthesia
+Design and Simulation of a Sliding Mode Control for Anesthesia
+Antonio Lopez-Ramirez, Ana Gabriela Gallardo-Hernandez, and Jesica Escobar
+Paper ID: 9523
 
 Running the controllers is very simple:
 1. Open the Simulink file named Controladores,
