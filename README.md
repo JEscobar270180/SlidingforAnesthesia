@@ -28,7 +28,6 @@ with this information the model can be created for each patient,
 
 4.  Run the Simulink file, the controllers signals are now visible on the Scopes,
   
-5.  For more patients, you can copy-paste a controller and create a new .m file with the information of the patient.
 
    ![image](https://github.com/user-attachments/assets/fcd17055-fb50-4f21-a520-eca4b06092c0)
    ![image](https://github.com/user-attachments/assets/18c099c8-f6dc-4aae-9269-a6924b2abd1c)
