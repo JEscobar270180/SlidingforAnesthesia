@@ -39,7 +39,12 @@ https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/P4.m
 
   ![image](https://github.com/user-attachments/assets/a04dcd88-078a-461a-8578-bbe9c60a3a1d)
   ![image](https://github.com/user-attachments/assets/26d810f7-31c3-47cc-a892-f0de0b312552)
-  ![image](https://github.com/user-attachments/assets/cd47c31e-3a4f-4187-ae6d-70ef7a6c511b)
+
+  
+5. Run the graficasplot.m file, this file will generate the controllers and BIS signals plots
+   https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/graficasplot.m
+   
+    ![image](https://github.com/user-attachments/assets/cd47c31e-3a4f-4187-ae6d-70ef7a6c511b)
 
   Note: Controladores.slx can do the job if you want to visualice the signals in scopes.
 
