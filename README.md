@@ -6,7 +6,7 @@ Antonio Lopez-Ramirez, Ana Gabriela Gallardo-Hernandez, and Jesica Escobar
 Paper ID: 9523
 
 Running the controllers is very simple:
-1. Open the Simulink file named Controladoresplot.slx,
+1. Download and open the Simulink file named Controladoresplot.slx,
    https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/Controladoresplot.slx
    
 2. Double click in the block named Parametros, this block will generate the data needed for the simulation, this data comes from the files P1.m to P4.m that create the pharmacokinetic and pharmacodynamic model for each patient,
