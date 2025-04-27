@@ -41,7 +41,8 @@ https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/P4.m
   ![image](https://github.com/user-attachments/assets/26d810f7-31c3-47cc-a892-f0de0b312552)
 
   
-5. Run the graficasplot.m file, this file will generate the controllers and BIS signals plots
+5. Run the graficasplot.m file, this file will generate the controllers and BIS signals plots, with this code you can modify the figure properties, like: color, line width, labels, etc.
+   
    https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/graficasplot.m
    
     ![image](https://github.com/user-attachments/assets/cd47c31e-3a4f-4187-ae6d-70ef7a6c511b)
