@@ -36,13 +36,13 @@ https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/P3.m
 https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/P4.m
 
 
-4.  Run the Simulink file, the controllers and BIS signals are now available for plotting.
+4.  Run the Simulink file, the controllers and BIS signals are now available for plotting,
 
   ![image](https://github.com/user-attachments/assets/a04dcd88-078a-461a-8578-bbe9c60a3a1d)
   ![image](https://github.com/user-attachments/assets/26d810f7-31c3-47cc-a892-f0de0b312552)
 
   
-5. Run the graficasplot.m file, this file will generate the controllers and BIS signals plots, with this code you can modify the figure properties, like: color, line width, labels, etc.
+5. Run the graficasplot.m file, this file will generate the controllers and BIS signals Figures, with this code you can modify the figure properties, like: color, line width, labels, etc.
    
    https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/graficasplot.m
    
