@@ -66,7 +66,7 @@ This generates the BIS signal:
    
     ![image](https://github.com/user-attachments/assets/cd47c31e-3a4f-4187-ae6d-70ef7a6c511b)
 
-  Note: 
+  Notes: 
   
   - Controladores.slx can do the job if you want to visualice the signals in scopes.
   
