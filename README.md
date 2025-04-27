@@ -48,7 +48,13 @@ This files create the pharmacokinetic and pharmacodynamic model for each patient
 4.  Run the Simulink file. This simulation generates the control and BIS signals for each patient,
 
   ![image](https://github.com/user-attachments/assets/a04dcd88-078a-461a-8578-bbe9c60a3a1d)
+
+This generates the BIS signal:
+  
   ![image](https://github.com/user-attachments/assets/26d810f7-31c3-47cc-a892-f0de0b312552)
+
+  and this is the controller:
+  
   ![image](https://github.com/user-attachments/assets/df2acfbd-6b16-46f8-bc47-83c4d3f6cd20)
 
 
