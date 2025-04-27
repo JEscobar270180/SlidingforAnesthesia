@@ -1,11 +1,12 @@
 # Code for: Design and Simulation of a Sliding Mode Control for Anesthesia
 
-![image](https://github.com/user-attachments/assets/d0945dce-dd9d-4eae-ade4-6c99f28abcfe)
 
 
 Antonio Lopez-Ramirez, Ana Gabriela Gallardo-Hernandez, and Jesica Escobar
 
 Paper ID: 9523
+
+![image](https://github.com/user-attachments/assets/d0945dce-dd9d-4eae-ade4-6c99f28abcfe)
 
 Here we present the code for the design and simulation of a sliding mode control for anesthesia, running the models and controllers is very simple:
 1. Download and open the Simulink file named Controladoresplot.slx,
