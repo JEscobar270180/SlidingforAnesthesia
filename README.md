@@ -1,11 +1,10 @@
-# SlidingforAnesthesia
-Design and Simulation of a Sliding Mode Control for Anesthesia
+# Code for: Design and Simulation of a Sliding Mode Control for Anesthesia
 
 Antonio Lopez-Ramirez, Ana Gabriela Gallardo-Hernandez, and Jesica Escobar
 
 Paper ID: 9523
 
-Running the controllers is very simple:
+Here we present the code for the design and simulation of a sliding mode control for anesthesia, running the models and controllers is very simple:
 1. Download and open the Simulink file named Controladoresplot.slx,
    https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/Controladoresplot.slx
    
