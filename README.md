@@ -10,6 +10,7 @@ Running the controllers is very simple:
    https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/Controladoresplot.slx
    
 2. Double click in the block named Parametros, this block will generate the data needed for the simulation, this data comes from the files P1.m to P4.m that create the pharmacokinetic and pharmacodynamic model for each patient,
+
    ![image](https://github.com/user-attachments/assets/bbb142a7-afed-48af-9b58-2b932d9740db)
 
 3.  The followin parameters are necessary for each patient:
