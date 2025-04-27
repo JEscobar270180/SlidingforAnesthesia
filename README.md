@@ -68,7 +68,7 @@ This generates the BIS signal:
 
   Note: 
   
-  -Controladores.slx can do the job if you want to visualice the signals in scopes.
+  - Controladores.slx can do the job if you want to visualice the signals in scopes.
   
   - If you want to check what is inside the control and parameter blocks, you just need to right click on the block to look under mask:
 
