@@ -34,7 +34,7 @@ https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/P2.m
 https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/P3.m
 https://github.com/JEscobar270180/SlidingforAnesthesia/blob/main/P4.m
 
-create the pharmacokinetic and pharmacodynamic model for each patient
+create the pharmacokinetic and pharmacodynamic model for each patient,
 
 ![image](https://github.com/user-attachments/assets/2b5611b8-7a88-484d-b35c-fcda9af60845)
 ![image](https://github.com/user-attachments/assets/ddd11082-499b-4db1-b1dc-8eee785dc7b1)
@@ -55,6 +55,9 @@ create the pharmacokinetic and pharmacodynamic model for each patient
 
   Note: Controladores.slx can do the job if you want to visualice the signals in scopes.
 
+# System requirements
+
+- Matlab 2023b or later. 
 
 
 
