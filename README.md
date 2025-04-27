@@ -60,7 +60,9 @@ This files create the pharmacokinetic and pharmacodynamic model for each patient
    
     ![image](https://github.com/user-attachments/assets/cd47c31e-3a4f-4187-ae6d-70ef7a6c511b)
 
-  Note: Controladores.slx can do the job if you want to visualice the signals in scopes.
+  Note: 
+  
+  -Controladores.slx can do the job if you want to visualice the signals in scopes.
 
 # System requirements
 
