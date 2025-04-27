@@ -63,6 +63,10 @@ This files create the pharmacokinetic and pharmacodynamic model for each patient
   Note: 
   
   -Controladores.slx can do the job if you want to visualice the signals in scopes.
+If you want to check what is inside the control and parameter blocks, you just need to right click on the block to look under mask:
+
+![image](https://github.com/user-attachments/assets/85f6dd21-e2a1-41a0-9126-b63d22c52824)
+
 
 # System requirements
 
